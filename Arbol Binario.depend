@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1532788482 source:c:\users\adria\desktop\arbol binario\f_arbol_binario.c
+	<stdio.h>
+	<stdlib.h>
+	"F_Arbol_Binario.h"
+
+1532787540 c:\users\adria\desktop\arbol binario\f_arbol_binario.h
+
+1532788560 source:c:\users\adria\desktop\arbol binario\main.c
+	<stdio.h>
+	<stdlib.h>
+	"F_Arbol_Binario.h"
+
+1532792803 source:c:\users\adria\desktop\programacion\mio\ejercicios\c\arbol binario\main.c
+	<stdio.h>
+	<stdlib.h>
+	"F_Arbol_Binario.h"
+
+1532787540 c:\users\adria\desktop\programacion\mio\ejercicios\c\arbol binario\f_arbol_binario.h
+
+1532792449 source:c:\users\adria\desktop\programacion\mio\ejercicios\c\arbol binario\f_arbol_binario.c
+	<stdio.h>
+	<stdlib.h>
+	"F_Arbol_Binario.h"
+
